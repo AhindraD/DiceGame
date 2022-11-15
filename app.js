@@ -1,6 +1,7 @@
 let scores, roundScore, activePlayer, gamePlaying, prevDice1, prevDice2;
 const inputScore = 50;
 init();
+
 function btn() {
   if (gamePlaying) {
 
