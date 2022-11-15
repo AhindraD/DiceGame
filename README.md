@@ -6,6 +6,7 @@ Simple Dice Game
 - Rolling 6's consecutively nukes your score
 - Submit your score if you reached target/ just want to pass your turn
 
-## Deployed Here: 
+## Deployed Here: https://dicegame-ahindra.netlify.app/
 
 ## Snaps:
+![](https://github.com/AhindraD/DiceGame/blob/master/snaps.PNG?raw=true)
