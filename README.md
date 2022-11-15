@@ -9,4 +9,4 @@ Simple Dice Game
 ## Deployed Here: https://dicegame-ahindra.netlify.app/
 
 ## Snaps:
-![](https://github.com/AhindraD/DiceGame/blob/master/snaps.PNG?raw=true)
+![](https://github.com/AhindraD/DiceGame/blob/master/images/snaps.PNG?raw=true)
