@@ -10,8 +10,8 @@ function btn() {
     document.getElementById('dice-1').style.display = 'block';
     document.getElementById('dice-2').style.display = 'block';
     // changing the dice image src
-    document.getElementById('dice-1').src = `dice-${dice1}.png`;
-    document.getElementById('dice-2').src = `dice-${dice2}.png`;
+    document.getElementById('dice-1').src = `images/dice-${dice1}.png`;
+    document.getElementById('dice-2').src = `images/dice-${dice2}.png`;
 
     // 3. update the round score IF the rolled number is NOT a 1 && if didn't roll double 6 twice
     if (prevDice1 === 6 && prevDice2 === 6 && dice1 === 6 && dice2 === 6) {

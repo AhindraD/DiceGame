@@ -41,7 +41,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(62, 20, 20, 0.1), rgba(62, 20, 20, 0.1)), url(backGround.jpg);
+    background-image: linear-gradient(rgba(62, 20, 20, 0.1), rgba(62, 20, 20, 0.1)), url(images/backGround.jpg);
     background-size: cover;
     background-position: center;
     font-family: Lato;
@@ -96,7 +96,7 @@ body {
 }
 
 .active {
-    background-image: url(back.jpg);
+    background-image: url(images/back.jpg);
     background-size: cover;
     background-position: center;
 }
